@@ -1,0 +1,16 @@
+{
+  "name": "web222_final_assignment",
+  "version": "1.0.0",
+  "description": "Web222 Final Assigment. I have created website about my favourite game cricket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+
+}
